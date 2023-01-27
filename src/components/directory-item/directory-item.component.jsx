@@ -12,7 +12,7 @@ const DirectoryItem = ({ category }) => {
                 imageUrl={imageUrl} />
             <Body>
                 <h2>{title}</h2>
-                <p>shop now</p>
+                <p>shop now .</p>
             </Body>
         </DirectoryItemContainer>
     )
